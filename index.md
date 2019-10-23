@@ -1,6 +1,6 @@
 ## Лабораторная работа №1
 
-1) Была произвдена [регистрация](https://github.com/Starodub-A-V/) на проекте GitHub.
+1) Произведена [регистрация](https://github.com/Starodub-A-V/) на проекте GitHub.
 
 2) Создана [страница отчёта](https://starodub-a-v.github.io/labs/).
 
